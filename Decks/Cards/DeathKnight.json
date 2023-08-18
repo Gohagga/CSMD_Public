@@ -3,54 +3,54 @@
         "name": "Volatile Leeches - Blood Spell T1",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Death Volley - Unholy Spell T1",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Death's Embrace - Necromancy Spell T1",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Corrupted Blood - Blood Spell T2",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Antimagic Zone - Unholy Spell T2",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Death and Decay - Necromancy Spell T2",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Vampire's Boon - Blood Spell T3",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Bestow Curse - Unholy Spell T3",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Army of the Dead - Necromancy Spell T3",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     }
 ]

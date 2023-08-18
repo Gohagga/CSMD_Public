@@ -3,198 +3,198 @@
         "name": "Rejuvenate - Restoration Spell T1",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Bless - Determination Spell T1",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Justice - Repentance Spell T1",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Invigorate - Restoration Spell T2",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Endure - Determination Spell T2",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Purge - Repentance Spell T2",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Redemption - Restoration Spell T3",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Guardian Angel - Determination Spell T3",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Exorcism - Repentance Spell T3",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Guard - Human Unit T1",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Guard - Human Unit T1",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Archer - Human Unit T1",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Archer - Human Unit T1",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Footman - Human Unit T2",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Footman - Human Unit T2",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Footman - Human Unit T2",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Swordsman - Human Unit T3",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Swordsman - Human Unit T3",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Swordsman - Human Unit T3",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Guardian - Human Unit T3",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Guardian - Human Unit T3",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Guardian - Human Unit T3",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Knight - Human Unit T3",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Ranger - Human Unit T2",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Ranger - Human Unit T2",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Ranger - Human Unit T2",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Rifleman - Human Unit T3",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Rifleman - Human Unit T3",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Rifleman - Human Unit T3",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Sharpshooter - Human Unit T3",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Sharpshooter - Human Unit T3",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Sharpshooter - Human Unit T3",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Mortar Team - Human Unit T3",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     }
 ]

@@ -3,54 +3,54 @@
         "name": "Fireball - Elemental Flame Spell T1",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Ice Blast - Elemental Frost Spell T1",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Chain Lightning - Elemental Electricity Spell T1",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Flame Barrage - Elemental Flame Spell T2",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Ray of Cold - Elemental Frost Spell T2",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Galvanize - Elemental Electricity Spell T2",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Inferno - Elemental Flame Spell T3",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Frost Nova - Elemental Frost Spell T3",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Ionic Exchange - Elemental Electricity Spell T3",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     }
 ]

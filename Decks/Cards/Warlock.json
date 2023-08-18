@@ -3,180 +3,180 @@
         "name": "Dark Trade - Sacrifice Spell T1",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Crazy Imp - Summoning Demon Spell T1",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Contagious Insanity - Shadow Spell T1",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Ritual of Death - Sacrifice Spell T2",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Dark Portal - Summoning Spell T2",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Devour Essence - Shadow Spell T2",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Blood Feast - Sacrifice Spell T3",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Chaos Infernal - Summoning Demon Spell T3",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Paranoia - Shadow Spell T3",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Felhound - Demon Unit T1",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Felhound - Demon Unit T1",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Felguard - Demon Unit T2",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Felguard - Demon Unit T2",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Felguard - Demon Unit T2",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Doomguard - Demon Unit T3",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Doomguard - Demon Unit T3",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Vile Temptress - Demon Unit T3",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Vile Temptress - Demon Unit T3",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Watcher - Demon Unit T1",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Watcher - Demon Unit T1",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Corrupted Cultist - Demon Unit T2",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Corrupted Cultist - Demon Unit T2",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Corrupted Cultist - Demon Unit T2",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Eredar Sorcerer - Demon Unit T3",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Eredar Sorcerer - Demon Unit T3",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Hydralisk - Demon Unit T3",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Hydralisk - Demon Unit T3",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Voidwalker - Horror Unit T1",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Faceless One - Horror Unit T2",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     },
     {
         "name": "Twilight Dragon - Dragon Horror Unit T3",
         "description": "",
         "gmNotes": "notes",
-        "lua": "function end"
+        "lua": null
     }
 ]
