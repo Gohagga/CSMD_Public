@@ -1,19 +1,25 @@
 [
     {
         "name": "Dark Trade - Sacrifice Spell T1",
-        "description": "25",
+        "description": "26",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Crazy Imp - Summoning Demon Spell T1",
-        "description": "24",
+        "description": "25",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Contagious Insanity - Shadow Spell T1",
-        "description": "23",
+        "description": "24",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eldritch Verse - Vigil",
+        "description": "22",
         "gmNotes": "notes",
         "lua": null
     },
@@ -109,13 +115,13 @@
     },
     {
         "name": "Watcher - Demon Unit T1",
-        "description": "28",
+        "description": "29",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Watcher - Demon Unit T1",
-        "description": "27",
+        "description": "28",
         "gmNotes": "notes",
         "lua": null
     },
@@ -163,7 +169,7 @@
     },
     {
         "name": "Voidwalker - Horror Unit T1",
-        "description": "26",
+        "description": "27",
         "gmNotes": "notes",
         "lua": null
     },
