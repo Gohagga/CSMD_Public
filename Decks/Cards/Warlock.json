@@ -55,19 +55,19 @@
     },
     {
         "name": "Eldritch Verse - Vigil",
-        "description": "22",
+        "description": "23",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Unit T1",
+        "description": "31",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Felhound - Demon Unit T1",
         "description": "30",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Felhound - Demon Unit T1",
-        "description": "29",
         "gmNotes": "notes",
         "lua": null
     },
