@@ -18,12 +18,6 @@
         "lua": null
     },
     {
-        "name": "Eldritch Verse - Vigil",
-        "description": "22",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
         "name": "Ritual of Death - Sacrifice Spell T2",
         "description": "22",
         "gmNotes": "notes",
@@ -56,6 +50,12 @@
     {
         "name": "Paranoia - Shadow Spell T3",
         "description": "17",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eldritch Verse - Vigil",
+        "description": "22",
         "gmNotes": "notes",
         "lua": null
     },

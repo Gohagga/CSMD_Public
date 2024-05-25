@@ -18,12 +18,6 @@
         "lua": null
     },
     {
-        "name": "Strength of Many - Vigil",
-        "description": "27",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
         "name": "Invigorate - Restoration Spell T2",
         "description": "26",
         "gmNotes": "notes",
@@ -56,6 +50,12 @@
     {
         "name": "Exorcism - Repentance Spell T3",
         "description": "21",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Strength of Many - Vigil",
+        "description": "27",
         "gmNotes": "notes",
         "lua": null
     },
