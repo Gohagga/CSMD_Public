@@ -1,55 +1,169 @@
 [
     {
         "name": "Volatile Leeches - Blood Spell T1",
-        "description": "",
+        "description": "24",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Death Volley - Unholy Spell T1",
-        "description": "",
+        "description": "23",
         "gmNotes": "notes",
         "lua": null
     },
     {
-        "name": "Death's Embrace - Necromancy Spell T1",
-        "description": "",
+        "name": "Dominate Undead - Necromancy Spell T1",
+        "description": "22",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Corrupted Blood - Blood Spell T2",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Antimagic Zone - Unholy Spell T2",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Death and Decay - Necromancy Spell T2",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Vampire's Boon - Blood Spell T3",
-        "description": "",
+        "description": "20",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Bestow Curse - Unholy Spell T3",
-        "description": "",
+        "description": "19",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Death and Decay - Necromancy Spell T2",
+        "description": "18",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Exsanguination - Blood Spell T3",
+        "description": "17",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Antimagic Zone - Unholy Spell T2",
+        "description": "16",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Army of the Dead - Necromancy Spell T3",
-        "description": "",
+        "description": "15",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Violent Expulsion - Vigil",
+        "description": "21",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Speedy Ghoul - Undead Minion T1",
+        "description": "28",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Speedy Ghoul - Undead Minion T1",
+        "description": "27",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Swarmy Ghoul - Undead Minion T1",
+        "description": "26",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Swarmy Ghoul - Undead Minion T1",
+        "description": "25",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Abomination - Undead Monstrosity T2",
+        "description": "14",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Abomination - Undead Monstrosity T2",
+        "description": "13",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Gargoyle - Undead Minion T2",
+        "description": "12",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Gargoyle - Undead Minion T2",
+        "description": "11",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Risen Behemoth - Undead Monstrosity T3",
+        "description": "10",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Risen Behemoth - Undead Monstrosity T3",
+        "description": "9",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Revenant - Undead Minion T3",
+        "description": "8",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Revenant - Undead Minion T3",
+        "description": "7",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corpse Golem - Undead Monstrosity T3",
+        "description": "6",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corpse Golem - Undead Monstrosity T3",
+        "description": "5",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Death's Hound - Undead Minion T3",
+        "description": "4",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Death's Hound - Undead Minion T3",
+        "description": "3",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Shadow Wraith - Undead Minion T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Frost Wyrm - Undead Monstrosity T3",
+        "description": "1",
         "gmNotes": "notes",
         "lua": null
     }
