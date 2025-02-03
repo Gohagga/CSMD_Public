@@ -1,175 +1,175 @@
 [
     {
         "name": "Twilight Dragon - Dragon Horror Unit T3",
-        "description": "",
+        "description": "7",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Paranoia - Shadow Spell Spell T3",
-        "description": "",
+        "description": "15",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Chaos Infernal - Demon Calling Spell Spell T3",
-        "description": "",
+        "description": "16",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Blood Feast - Sacrifice Spell Spell T3",
-        "description": "",
+        "description": "17",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Hydralisk - Demon Unit T3",
-        "description": "",
+        "description": "28",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Eredar Sorcerer - Demon Unit T3",
-        "description": "",
+        "description": "29",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Vile Temptress - Demon Unit T3",
-        "description": "",
+        "description": "30",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Doomguard - Demon Unit T3",
-        "description": "",
+        "description": "31",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Faceless One - Horror Unit T2",
-        "description": "",
+        "description": "36",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Hydralisk - Demon Unit T3",
-        "description": "",
+        "description": "37",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Vile Temptress - Demon Unit T3",
-        "description": "",
+        "description": "38",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Eldritch Verse - Vigil  T3",
-        "description": "",
+        "description": "50",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Devour Essence - Shadow Spell Spell T2",
-        "description": "",
+        "description": "51",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Dark Portal - Calling Spell Spell T2",
-        "description": "",
+        "description": "52",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Ritual of Death - Sacrifice Spell Spell T2",
-        "description": "",
+        "description": "53",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Eredar Sorcerer - Demon Unit T3",
-        "description": "",
+        "description": "67",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Corrupted Cultist - Demon Unit T2",
-        "description": "",
+        "description": "68",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Doomguard - Demon Unit T3",
-        "description": "",
+        "description": "69",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Felguard - Demon Unit T2",
-        "description": "",
+        "description": "70",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Corrupted Cultist - Demon Unit T2",
-        "description": "",
+        "description": "78",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Felguard - Demon Unit T2",
-        "description": "",
+        "description": "79",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Contagious Insanity - Shadow Spell Spell T1",
-        "description": "",
+        "description": "88",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Crazy Imp - Demon Calling Spell Spell T1",
-        "description": "",
+        "description": "89",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Dark Trade - Sacrifice Spell Spell T1",
-        "description": "",
+        "description": "90",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Voidwalker - Horror Unit T1",
-        "description": "",
+        "description": "99",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Watcher - Demon Unit T1",
-        "description": "",
+        "description": "100",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Watcher - Demon Unit T1",
-        "description": "",
+        "description": "101",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Felhound - Demon Unit T1",
-        "description": "",
+        "description": "102",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Felhound - Demon Unit T1",
-        "description": "",
+        "description": "103",
         "gmNotes": "notes",
         "lua": null
     }

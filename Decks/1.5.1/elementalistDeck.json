@@ -1,133 +1,133 @@
 [
     {
         "name": "Aspect: Phasing - Aspect Spell Spell T3",
-        "description": "",
+        "description": "1",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Aspect: Crystallized - Aspect Spell Spell T3",
-        "description": "",
+        "description": "2",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Aspect: Searing - Aspect Spell Spell T3",
-        "description": "",
+        "description": "3",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Elemental Master - Mastery Class Power Spell T3",
-        "description": "",
+        "description": "4",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Ionic Exchange - Elemental Electricity Spell Spell T3",
-        "description": "",
+        "description": "12",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Frost Nova - Elemental Frost Spell Spell T3",
-        "description": "",
+        "description": "13",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Inferno - Elemental Flame Spell Spell T3",
-        "description": "",
+        "description": "14",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Aspect: Echoing - Aspect Spell Spell T2",
-        "description": "",
+        "description": "21",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Aspect: Glacial - Aspect Spell Spell T2",
-        "description": "",
+        "description": "22",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Aspect: Pyroclastic - Aspect Spell Spell T2",
-        "description": "",
+        "description": "23",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Elemental Expert - Mastery Class Power Spell T2",
-        "description": "",
+        "description": "46",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Galvanize - Elemental Electricity Spell Spell T2",
-        "description": "",
+        "description": "47",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Ray of Cold - Elemental Frost Spell Spell T2",
-        "description": "",
+        "description": "48",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Flame Barrage - Elemental Flame Spell Spell T2",
-        "description": "",
+        "description": "49",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Aspect: Siphoning - Aspect Spell Spell T1",
-        "description": "",
+        "description": "58",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Aspect: Shrouded - Aspect Spell Spell T1",
-        "description": "",
+        "description": "59",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Aspect: Blazing - Aspect Spell Spell T1",
-        "description": "",
+        "description": "60",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Elemental Adept - Mastery Class Power Spell T1",
-        "description": "",
+        "description": "75",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Chain Lightning - Elemental Electricity Spell Spell T1",
-        "description": "",
+        "description": "85",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Ice Blast - Elemental Frost Spell Spell T1",
-        "description": "",
+        "description": "86",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Fireball - Elemental Flame Spell Spell T1",
-        "description": "",
+        "description": "87",
         "gmNotes": "notes",
         "lua": null
     },
     {
         "name": "Sculpt the Primal - Aspect Spell Spell T1",
-        "description": "",
+        "description": "94",
         "gmNotes": "notes",
         "lua": null
     }
