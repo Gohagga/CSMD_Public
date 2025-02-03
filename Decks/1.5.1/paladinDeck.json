@@ -1,156 +1,6 @@
 [
     {
-        "name": "Guard - Human Follower Unit T1",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Guard - Human Follower Unit T1",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Archer - Human Follower Unit T1",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Archer - Human Follower Unit T1",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Rejuvenate - Restoration Spell Spell T1",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Bless - Determination Spell Spell T1",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Justice - Repentance Spell Spell T1",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Footman - Human Follower Unit T2",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Ranger - Human Follower Unit T2",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Footman - Human Follower Unit T2",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Swordsman - Human Follower Unit T3",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Ranger - Human Follower Unit T2",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Rifleman - Human Follower Unit T3",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Invigorate - Restoration Spell Spell T2",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Endure - Determination Spell Spell T2",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Purge - Repentance Spell Spell T2",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Strength of Many - Vigil  T3",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Guardian - Human Follower Unit T3",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Knight - Human Follower Unit T3",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Sharpshooter - Human Follower Unit T3",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Swordsman - Human Follower Unit T3",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Guardian - Human Follower Unit T3",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Rifleman - Human Follower Unit T3",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Sharpshooter - Human Follower Unit T3",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Redemption - Restoration Spell Spell T3",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Guardian Angel - Determination Spell Spell T3",
+        "name": "Mortar Team - Human Follower Unit T3",
         "description": "",
         "gmNotes": "notes",
         "lua": null
@@ -162,7 +12,157 @@
         "lua": null
     },
     {
-        "name": "Mortar Team - Human Follower Unit T3",
+        "name": "Guardian Angel - Determination Spell Spell T3",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Redemption - Restoration Spell Spell T3",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sharpshooter - Human Follower Unit T3",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Rifleman - Human Follower Unit T3",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Guardian - Human Follower Unit T3",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Swordsman - Human Follower Unit T3",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sharpshooter - Human Follower Unit T3",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Knight - Human Follower Unit T3",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Guardian - Human Follower Unit T3",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Strength of Many - Vigil  T3",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Purge - Repentance Spell Spell T2",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Endure - Determination Spell Spell T2",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Invigorate - Restoration Spell Spell T2",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Rifleman - Human Follower Unit T3",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Ranger - Human Follower Unit T2",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Swordsman - Human Follower Unit T3",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Footman - Human Follower Unit T2",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Ranger - Human Follower Unit T2",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Footman - Human Follower Unit T2",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Justice - Repentance Spell Spell T1",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Bless - Determination Spell Spell T1",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Rejuvenate - Restoration Spell Spell T1",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Archer - Human Follower Unit T1",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Archer - Human Follower Unit T1",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Guard - Human Follower Unit T1",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Guard - Human Follower Unit T1",
         "description": "",
         "gmNotes": "notes",
         "lua": null

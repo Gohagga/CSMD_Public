@@ -1,156 +1,6 @@
 [
     {
-        "name": "Speedy Ghoul - Undead Minion Unit T1",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Speedy Ghoul - Undead Minion Unit T1",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Swarmy Ghoul - Undead Minion Unit T1",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Swarmy Ghoul - Undead Minion Unit T1",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Volatile Leeches - Blood Spell Spell T1",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Death Volley - Unholy Spell Spell T1",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Dominate Undead - Necromancy Spell Spell T1",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Abomination - Undead Monstrosity Unit T2",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Gargoyle - Undead Minion Unit T2",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Abomination - Undead Monstrosity Unit T2",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Gargoyle - Undead Minion Unit T2",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Risen Behemoth - Undead Monstrosity Unit T3",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Revenant - Undead Minion Unit T3",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Corpse Golem - Undead Monstrosity Unit T3",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Death's Hound - Undead Minion Unit T3",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Corrupted Blood - Blood Spell Spell T2",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Bestow Curse - Unholy Spell Spell T2",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Death and Decay - Necromancy Spell Spell T2",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Violent Expulsion - Vigil  T3",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Risen Behemoth - Undead Monstrosity Unit T3",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Revenant - Undead Minion Unit T3",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Corpse Golem - Undead Monstrosity Unit T3",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Death's Hound - Undead Minion Unit T3",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Exsanguination - Blood Spell Spell T3",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Antimagic Zone - Unholy Spell Spell T3",
-        "description": "",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Army of the Dead - Necromancy Spell Spell T3",
+        "name": "Frost Wyrm - Undead Monstrosity Unit T3",
         "description": "",
         "gmNotes": "notes",
         "lua": null
@@ -162,7 +12,157 @@
         "lua": null
     },
     {
-        "name": "Frost Wyrm - Undead Monstrosity Unit T3",
+        "name": "Army of the Dead - Necromancy Spell Spell T3",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Antimagic Zone - Unholy Spell Spell T3",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Exsanguination - Blood Spell Spell T3",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Death's Hound - Undead Minion Unit T3",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corpse Golem - Undead Monstrosity Unit T3",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Revenant - Undead Minion Unit T3",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Risen Behemoth - Undead Monstrosity Unit T3",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Violent Expulsion - Vigil  T3",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Death and Decay - Necromancy Spell Spell T2",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Bestow Curse - Unholy Spell Spell T2",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Blood - Blood Spell Spell T2",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Death's Hound - Undead Minion Unit T3",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corpse Golem - Undead Monstrosity Unit T3",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Revenant - Undead Minion Unit T3",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Risen Behemoth - Undead Monstrosity Unit T3",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Gargoyle - Undead Minion Unit T2",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Abomination - Undead Monstrosity Unit T2",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Gargoyle - Undead Minion Unit T2",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Abomination - Undead Monstrosity Unit T2",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dominate Undead - Necromancy Spell Spell T1",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Death Volley - Unholy Spell Spell T1",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Volatile Leeches - Blood Spell Spell T1",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Swarmy Ghoul - Undead Minion Unit T1",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Swarmy Ghoul - Undead Minion Unit T1",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Speedy Ghoul - Undead Minion Unit T1",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Speedy Ghoul - Undead Minion Unit T1",
         "description": "",
         "gmNotes": "notes",
         "lua": null
