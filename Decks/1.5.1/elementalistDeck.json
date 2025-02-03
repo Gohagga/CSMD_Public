@@ -1,0 +1,134 @@
+[
+    {
+        "name": "Sculpt the Primal - Aspect Spell Spell T1",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Fireball - Elemental Flame Spell Spell T1",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Ice Blast - Elemental Frost Spell Spell T1",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Chain Lightning - Elemental Electricity Spell Spell T1",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Elemental Adept - Mastery Class Power Spell T1",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Aspect: Blazing - Aspect Spell Spell T1",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Aspect: Shrouded - Aspect Spell Spell T1",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Aspect: Siphoning - Aspect Spell Spell T1",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Flame Barrage - Elemental Flame Spell Spell T2",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Ray of Cold - Elemental Frost Spell Spell T2",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Galvanize - Elemental Electricity Spell Spell T2",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Elemental Expert - Mastery Class Power Spell T2",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Aspect: Pyroclastic - Aspect Spell Spell T2",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Aspect: Glacial - Aspect Spell Spell T2",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Aspect: Echoing - Aspect Spell Spell T2",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Inferno - Elemental Flame Spell Spell T3",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Frost Nova - Elemental Frost Spell Spell T3",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Ionic Exchange - Elemental Electricity Spell Spell T3",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Elemental Master - Mastery Class Power Spell T3",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Aspect: Searing - Aspect Spell Spell T3",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Aspect: Crystallized - Aspect Spell Spell T3",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Aspect: Phasing - Aspect Spell Spell T3",
+        "description": "",
+        "gmNotes": "notes",
+        "lua": null
+    }
+]
