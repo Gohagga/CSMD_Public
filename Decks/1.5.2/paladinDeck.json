@@ -1,170 +1,163 @@
-[
-    {
+{
         "name": "Mortar Team - Human Follower Unit T3",
         "description": "8",
         "gmNotes": "notes",
         "lua": null
     },
-    {
+{
         "name": "Exorcism - Repentance Spell Spell T3",
-        "description": "21",
+        "description": "24",
         "gmNotes": "notes",
         "lua": null
     },
-    {
+{
         "name": "Guardian Angel - Determination Spell Spell T3",
-        "description": "22",
+        "description": "25",
         "gmNotes": "notes",
         "lua": null
     },
-    {
+{
         "name": "Redemption - Restoration Spell Spell T3",
-        "description": "23",
+        "description": "26",
         "gmNotes": "notes",
         "lua": null
     },
-    {
+{
         "name": "Sharpshooter - Human Follower Unit T3",
-        "description": "35",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Rifleman - Human Follower Unit T3",
-        "description": "36",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Guardian - Human Follower Unit T3",
-        "description": "37",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Swordsman - Human Follower Unit T3",
         "description": "38",
         "gmNotes": "notes",
         "lua": null
     },
-    {
-        "name": "Sharpshooter - Human Follower Unit T3",
-        "description": "42",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Knight - Human Follower Unit T3",
-        "description": "43",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Guardian - Human Follower Unit T3",
-        "description": "44",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Strength of Many - Vigil  T3",
-        "description": "60",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Purge - Repentance Spell Spell T2",
-        "description": "61",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Endure - Determination Spell Spell T2",
-        "description": "62",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
-        "name": "Invigorate - Restoration Spell Spell T2",
-        "description": "63",
-        "gmNotes": "notes",
-        "lua": null
-    },
-    {
+{
         "name": "Rifleman - Human Follower Unit T3",
-        "description": "77",
+        "description": "39",
         "gmNotes": "notes",
         "lua": null
     },
-    {
-        "name": "Ranger - Human Follower Unit T2",
-        "description": "78",
+{
+        "name": "Guardian - Human Follower Unit T3",
+        "description": "40",
         "gmNotes": "notes",
         "lua": null
     },
-    {
+{
         "name": "Swordsman - Human Follower Unit T3",
-        "description": "79",
+        "description": "41",
         "gmNotes": "notes",
         "lua": null
     },
-    {
-        "name": "Footman - Human Follower Unit T2",
-        "description": "80",
+{
+        "name": "Sharpshooter - Human Follower Unit T3",
+        "description": "45",
         "gmNotes": "notes",
         "lua": null
     },
-    {
+{
+        "name": "Knight - Human Follower Unit T3",
+        "description": "46",
+        "gmNotes": "notes",
+        "lua": null
+    },
+{
+        "name": "Guardian - Human Follower Unit T3",
+        "description": "47",
+        "gmNotes": "notes",
+        "lua": null
+    },
+{
+        "name": "Strength of Many - Vigil  T3",
+        "description": "66",
+        "gmNotes": "notes",
+        "lua": null
+    },
+{
+        "name": "Purge - Repentance Spell Spell T2",
+        "description": "67",
+        "gmNotes": "notes",
+        "lua": null
+    },
+{
+        "name": "Endure - Determination Spell Spell T2",
+        "description": "68",
+        "gmNotes": "notes",
+        "lua": null
+    },
+{
+        "name": "Invigorate - Restoration Spell Spell T2",
+        "description": "69",
+        "gmNotes": "notes",
+        "lua": null
+    },
+{
+        "name": "Rifleman - Human Follower Unit T3",
+        "description": "83",
+        "gmNotes": "notes",
+        "lua": null
+    },
+{
         "name": "Ranger - Human Follower Unit T2",
+        "description": "84",
+        "gmNotes": "notes",
+        "lua": null
+    },
+{
+        "name": "Swordsman - Human Follower Unit T3",
+        "description": "85",
+        "gmNotes": "notes",
+        "lua": null
+    },
+{
+        "name": "Footman - Human Follower Unit T2",
         "description": "86",
         "gmNotes": "notes",
         "lua": null
     },
-    {
+{
+        "name": "Ranger - Human Follower Unit T2",
+        "description": "92",
+        "gmNotes": "notes",
+        "lua": null
+    },
+{
         "name": "Footman - Human Follower Unit T2",
-        "description": "87",
+        "description": "93",
         "gmNotes": "notes",
         "lua": null
     },
-    {
+{
         "name": "Justice - Repentance Spell Spell T1",
-        "description": "100",
+        "description": "109",
         "gmNotes": "notes",
         "lua": null
     },
-    {
+{
         "name": "Bless - Determination Spell Spell T1",
-        "description": "101",
+        "description": "110",
         "gmNotes": "notes",
         "lua": null
     },
-    {
+{
         "name": "Rejuvenate - Restoration Spell Spell T1",
-        "description": "102",
+        "description": "111",
         "gmNotes": "notes",
         "lua": null
     },
-    {
+{
         "name": "Archer - Human Follower Unit T1",
-        "description": "113",
+        "description": "122",
         "gmNotes": "notes",
         "lua": null
     },
-    {
+{
         "name": "Archer - Human Follower Unit T1",
-        "description": "114",
+        "description": "123",
         "gmNotes": "notes",
         "lua": null
     },
-    {
+{
         "name": "Guard - Human Follower Unit T1",
-        "description": "115",
+        "description": "124",
         "gmNotes": "notes",
         "lua": null
     },
-    {
-        "name": "Guard - Human Follower Unit T1",
-        "description": "116",
-        "gmNotes": "notes",
-        "lua": null
-    }
-]
+{        "name": "Guard - Human Follower Unit T1",        "description": "125",        "gmNotes": "notes",        "lua": null    },
