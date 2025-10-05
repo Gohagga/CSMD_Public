@@ -1,169 +1,4934 @@
-{
+[
+    {
+        "name": "Mastery: Calling, Shadow - Mastery Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery: Sacrifice - Mastery Spell T3",
+        "description": "3",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
         "name": "Twilight Dragon - Dragon Horror Unit T3",
-        "description": "7",
+        "description": "13",
         "gmNotes": "notes",
         "lua": null
     },
-{
+    {
         "name": "Paranoia - Shadow Spell Spell T3",
-        "description": "18",
+        "description": "24",
         "gmNotes": "notes",
         "lua": null
     },
-{
+    {
         "name": "Chaos Infernal - Demon Calling Spell Spell T3",
-        "description": "19",
+        "description": "25",
         "gmNotes": "notes",
         "lua": null
     },
-{
+    {
         "name": "Blood Feast - Sacrifice Spell Spell T3",
-        "description": "20",
+        "description": "26",
         "gmNotes": "notes",
         "lua": null
     },
-{
+    {
         "name": "Hydralisk - Demon Unit T3",
-        "description": "31",
+        "description": "37",
         "gmNotes": "notes",
         "lua": null
     },
-{
+    {
         "name": "Eredar Sorcerer - Demon Unit T3",
-        "description": "32",
+        "description": "38",
         "gmNotes": "notes",
         "lua": null
     },
-{
+    {
         "name": "Vile Temptress - Demon Unit T3",
-        "description": "33",
-        "gmNotes": "notes",
-        "lua": null
-    },
-{
-        "name": "Doomguard - Demon Unit T3",
-        "description": "34",
-        "gmNotes": "notes",
-        "lua": null
-    },
-{
-        "name": "Faceless One - Horror Unit T2",
         "description": "39",
         "gmNotes": "notes",
         "lua": null
     },
-{
-        "name": "Hydralisk - Demon Unit T3",
+    {
+        "name": "Doomguard - Demon Unit T3",
         "description": "40",
         "gmNotes": "notes",
         "lua": null
     },
-{
-        "name": "Vile Temptress - Demon Unit T3",
-        "description": "41",
+    {
+        "name": "Faceless One - Horror Unit T2",
+        "description": "45",
         "gmNotes": "notes",
         "lua": null
     },
-{
+    {
+        "name": "Hydralisk - Demon Unit T3",
+        "description": "46",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Unit T3",
+        "description": "47",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
         "name": "Eldritch Verse - Vigil  T3",
+        "description": "62",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Devour Essence - Shadow Spell Spell T2",
+        "description": "63",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "64",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Ritual of Death - Sacrifice Spell Spell T2",
+        "description": "65",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Unit T3",
+        "description": "79",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Unit T2",
+        "description": "80",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Unit T3",
+        "description": "81",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Unit T2",
+        "description": "82",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Unit T2",
+        "description": "90",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Unit T2",
+        "description": "91",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Contagious Insanity - Shadow Spell Spell T1",
+        "description": "103",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Crazy Imp - Demon Calling Spell Spell T1",
+        "description": "104",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Trade - Sacrifice Spell Spell T1",
+        "description": "105",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Voidwalker - Horror Unit T1",
+        "description": "114",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Unit T1",
+        "description": "115",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Unit T1",
+        "description": "116",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Unit T1",
+        "description": "117",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Unit T1",
+        "description": "118",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery: Calling, Shadow - Mastery Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery: Sacrifice - Mastery Spell T3",
+        "description": "3",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Twilight Dragon - Dragon Horror Unit T3",
+        "description": "13",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Paranoia - Shadow Spell Spell T3",
+        "description": "24",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Chaos Infernal - Demon Calling Spell Spell T3",
+        "description": "25",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Blood Feast - Sacrifice Spell Spell T3",
+        "description": "26",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Unit T3",
+        "description": "37",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Unit T3",
+        "description": "38",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Unit T3",
+        "description": "39",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Unit T3",
+        "description": "40",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Faceless One - Horror Unit T2",
+        "description": "45",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Unit T3",
+        "description": "46",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Unit T3",
+        "description": "47",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eldritch Verse - Vigil  T3",
+        "description": "62",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Devour Essence - Shadow Spell Spell T2",
+        "description": "63",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "64",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Ritual of Death - Sacrifice Spell Spell T2",
+        "description": "65",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Unit T3",
+        "description": "79",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Unit T2",
+        "description": "80",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Unit T3",
+        "description": "81",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Unit T2",
+        "description": "82",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Unit T2",
+        "description": "90",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Unit T2",
+        "description": "91",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Contagious Insanity - Shadow Spell Spell T1",
+        "description": "103",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Crazy Imp - Demon Calling Spell Spell T1",
+        "description": "104",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Trade - Sacrifice Spell Spell T1",
+        "description": "105",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Voidwalker - Horror Unit T1",
+        "description": "114",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Unit T1",
+        "description": "115",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Unit T1",
+        "description": "116",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Unit T1",
+        "description": "117",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Unit T1",
+        "description": "118",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery: Calling, Shadow - Mastery Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery: Sacrifice - Mastery Spell T3",
+        "description": "3",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Twilight Dragon - Dragon Horror Unit T3",
+        "description": "13",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Paranoia - Shadow Spell Spell T3",
+        "description": "24",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Chaos Infernal - Demon Calling Spell Spell T3",
+        "description": "25",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Blood Feast - Sacrifice Spell Spell T3",
+        "description": "26",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Unit T3",
+        "description": "37",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Unit T3",
+        "description": "38",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Unit T3",
+        "description": "39",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Unit T3",
+        "description": "40",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Faceless One - Horror Unit T2",
+        "description": "45",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Unit T3",
+        "description": "46",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Unit T3",
+        "description": "47",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eldritch Verse - Vigil  T3",
+        "description": "62",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Devour Essence - Shadow Spell Spell T2",
+        "description": "63",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "64",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Ritual of Death - Sacrifice Spell Spell T2",
+        "description": "65",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Unit T3",
+        "description": "79",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Unit T2",
+        "description": "80",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Unit T3",
+        "description": "81",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Unit T2",
+        "description": "82",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Unit T2",
+        "description": "90",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Unit T2",
+        "description": "91",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Contagious Insanity - Shadow Spell Spell T1",
+        "description": "103",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Crazy Imp - Demon Calling Spell Spell T1",
+        "description": "104",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Trade - Sacrifice Spell Spell T1",
+        "description": "105",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Voidwalker - Horror Unit T1",
+        "description": "114",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Unit T1",
+        "description": "115",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Unit T1",
+        "description": "116",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Unit T1",
+        "description": "117",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Unit T1",
+        "description": "118",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery: Calling, Shadow - Mastery Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery: Sacrifice - Mastery Spell T3",
+        "description": "3",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Twilight Dragon - Dragon Horror Unit T3",
+        "description": "13",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Paranoia - Shadow Spell Spell T3",
+        "description": "24",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Chaos Infernal - Demon Calling Spell Spell T3",
+        "description": "25",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Blood Feast - Sacrifice Spell Spell T3",
+        "description": "26",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Unit T3",
+        "description": "37",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Unit T3",
+        "description": "38",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Unit T3",
+        "description": "39",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Unit T3",
+        "description": "40",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Faceless One - Horror Unit T2",
+        "description": "45",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Unit T3",
+        "description": "46",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Unit T3",
+        "description": "47",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eldritch Verse - Vigil  T3",
+        "description": "62",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Devour Essence - Shadow Spell Spell T2",
+        "description": "63",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "64",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Ritual of Death - Sacrifice Spell Spell T2",
+        "description": "65",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Unit T3",
+        "description": "79",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Unit T2",
+        "description": "80",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Unit T3",
+        "description": "81",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Unit T2",
+        "description": "82",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Unit T2",
+        "description": "90",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Unit T2",
+        "description": "91",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Contagious Insanity - Shadow Spell Spell T1",
+        "description": "103",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Crazy Imp - Demon Calling Spell Spell T1",
+        "description": "104",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Trade - Sacrifice Spell Spell T1",
+        "description": "105",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Voidwalker - Horror Unit T1",
+        "description": "114",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Unit T1",
+        "description": "115",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Unit T1",
+        "description": "116",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Unit T1",
+        "description": "117",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Unit T1",
+        "description": "118",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery: Calling, Shadow - Mastery Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery: Sacrifice - Mastery Spell T3",
+        "description": "3",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Twilight Dragon - Dragon Horror Minion Unit T3",
+        "description": "13",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Paranoia - Shadow Spell Spell T3",
+        "description": "24",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Chaos Infernal - Demon Calling Spell Spell T3",
+        "description": "25",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Blood Feast - Sacrifice Spell Spell T3",
+        "description": "26",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Minion Unit T3",
+        "description": "37",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Minion Unit T3",
+        "description": "38",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Minion Unit T3",
+        "description": "39",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Minion Unit T3",
+        "description": "40",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Faceless One - Horror Minion Unit T2",
+        "description": "45",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Minion Unit T3",
+        "description": "46",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Minion Unit T3",
+        "description": "47",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eldritch Verse - Vigil  T3",
+        "description": "62",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Devour Essence - Shadow Spell Spell T2",
+        "description": "63",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "64",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Ritual of Death - Sacrifice Spell Spell T2",
+        "description": "65",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Minion Unit T3",
+        "description": "79",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Minion Unit T2",
+        "description": "80",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Minion Unit T3",
+        "description": "81",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Minion Unit T2",
+        "description": "82",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Minion Unit T2",
+        "description": "90",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Minion Unit T2",
+        "description": "91",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Contagious Insanity - Shadow Spell Spell T1",
+        "description": "103",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Crazy Imp - Demon Calling Spell Spell T1",
+        "description": "104",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Trade - Sacrifice Spell Spell T1",
+        "description": "105",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Voidwalker - Horror Minion Unit T1",
+        "description": "114",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Minion Unit T1",
+        "description": "115",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Minion Unit T1",
+        "description": "116",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Minion Unit T1",
+        "description": "117",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Minion Unit T1",
+        "description": "118",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Trade - Sacrifice Spell Spell T1",
+        "description": "105",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Trade - Sacrifice Spell Spell T1",
+        "description": "105",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Trade - Sacrifice Spell Spell T1",
+        "description": "105",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Trade - Sacrifice Spell Spell T1",
+        "description": "105",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Trade - Sacrifice Spell Spell T1",
+        "description": "105",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Trade - Sacrifice Spell Spell T1",
+        "description": "105",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Trade - Sacrifice Spell Spell T1",
+        "description": "105",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Trade - Sacrifice Spell Spell T1",
+        "description": "105",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Trade - Sacrifice Spell Spell T1",
+        "description": "105",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Trade - Sacrifice Spell Spell T1",
+        "description": "105",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Trade - Sacrifice Spell Spell T1",
+        "description": "105",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery: Calling, Shadow - Mastery Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery: Sacrifice - Mastery Spell T3",
+        "description": "3",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Twilight Dragon - Dragon Horror Minion Unit T3",
+        "description": "13",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Paranoia - Shadow Spell Spell T3",
+        "description": "24",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Chaos Infernal - Demon Calling Spell Spell T3",
+        "description": "25",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Blood Feast - Sacrifice Spell Spell T3",
+        "description": "26",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Minion Unit T3",
+        "description": "37",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Minion Unit T3",
+        "description": "38",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Minion Unit T3",
+        "description": "39",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Minion Unit T3",
+        "description": "40",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Faceless One - Horror Minion Unit T2",
+        "description": "45",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Minion Unit T3",
+        "description": "46",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Minion Unit T3",
+        "description": "47",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eldritch Verse - Vigil  T3",
+        "description": "62",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Devour Essence - Shadow Spell Spell T2",
+        "description": "63",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "64",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Ritual of Death - Sacrifice Spell Spell T2",
+        "description": "65",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Minion Unit T3",
+        "description": "79",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Minion Unit T2",
+        "description": "80",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Minion Unit T3",
+        "description": "81",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Minion Unit T2",
+        "description": "82",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Minion Unit T2",
+        "description": "90",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Minion Unit T2",
+        "description": "91",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Contagious Insanity - Shadow Spell Spell T1",
+        "description": "103",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Crazy Imp - Demon Calling Spell Spell T1",
+        "description": "104",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Trade - Sacrifice Spell Spell T1",
+        "description": "105",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Voidwalker - Horror Minion Unit T1",
+        "description": "114",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Minion Unit T1",
+        "description": "115",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Minion Unit T1",
+        "description": "116",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Minion Unit T1",
+        "description": "117",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Minion Unit T1",
+        "description": "118",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "64",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "64",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "64",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "64",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "64",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "64",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "64",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "64",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "64",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "64",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "64",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "64",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "64",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "64",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "64",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "64",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "64",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery: Calling, Shadow - Mastery Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery: Sacrifice - Mastery Spell T3",
+        "description": "3",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Twilight Dragon - Dragon Horror Minion Unit T3",
+        "description": "13",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Paranoia - Shadow Spell Spell T3",
+        "description": "24",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Chaos Infernal - Demon Calling Spell Spell T3",
+        "description": "25",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Blood Feast - Sacrifice Spell Spell T3",
+        "description": "26",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Minion Unit T3",
+        "description": "37",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Minion Unit T3",
+        "description": "38",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Minion Unit T3",
+        "description": "39",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Minion Unit T3",
+        "description": "40",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Faceless One - Horror Minion Unit T2",
+        "description": "45",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Minion Unit T3",
+        "description": "46",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Minion Unit T3",
+        "description": "47",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eldritch Verse - Vigil  T3",
+        "description": "62",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Devour Essence - Shadow Spell Spell T2",
+        "description": "63",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "64",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Ritual of Death - Sacrifice Spell Spell T2",
+        "description": "65",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Minion Unit T3",
+        "description": "79",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Minion Unit T2",
+        "description": "80",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Minion Unit T3",
+        "description": "81",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Minion Unit T2",
+        "description": "82",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Minion Unit T2",
+        "description": "90",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Minion Unit T2",
+        "description": "91",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Contagious Insanity - Shadow Spell Spell T1",
+        "description": "103",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Crazy Imp - Demon Calling Spell Spell T1",
+        "description": "104",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Trade - Sacrifice Spell Spell T1",
+        "description": "105",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Voidwalker - Horror Minion Unit T1",
+        "description": "114",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Minion Unit T1",
+        "description": "115",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Minion Unit T1",
+        "description": "116",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Minion Unit T1",
+        "description": "117",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Minion Unit T1",
+        "description": "118",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery: Calling, Shadow - Mastery Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery: Sacrifice - Mastery Spell T3",
+        "description": "3",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Twilight Dragon - Dragon Horror Minion Unit T3",
+        "description": "13",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Paranoia - Shadow Spell Spell T3",
+        "description": "24",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Chaos Infernal - Demon Calling Spell Spell T3",
+        "description": "25",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Blood Feast - Sacrifice Spell Spell T3",
+        "description": "26",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Minion Unit T3",
+        "description": "37",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Minion Unit T3",
+        "description": "38",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Minion Unit T3",
+        "description": "39",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Minion Unit T3",
+        "description": "40",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Faceless One - Horror Minion Unit T2",
+        "description": "45",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Minion Unit T3",
+        "description": "46",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Minion Unit T3",
+        "description": "47",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eldritch Verse - Vigil  T3",
+        "description": "62",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Devour Essence - Shadow Spell Spell T2",
+        "description": "63",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "64",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Ritual of Death - Sacrifice Spell Spell T2",
+        "description": "65",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Minion Unit T3",
+        "description": "79",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Minion Unit T2",
+        "description": "80",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Minion Unit T3",
+        "description": "81",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Minion Unit T2",
+        "description": "82",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Minion Unit T2",
+        "description": "90",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Minion Unit T2",
+        "description": "91",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Contagious Insanity - Shadow Spell Spell T1",
+        "description": "103",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Crazy Imp - Demon Calling Spell Spell T1",
+        "description": "104",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Trade - Sacrifice Spell Spell T1",
+        "description": "105",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Voidwalker - Horror Minion Unit T1",
+        "description": "114",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Minion Unit T1",
+        "description": "115",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Minion Unit T1",
+        "description": "116",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Minion Unit T1",
+        "description": "117",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Minion Unit T1",
+        "description": "118",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery: Calling, Shadow - Mastery Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery: Sacrifice - Mastery Spell T3",
+        "description": "3",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Twilight Dragon - Dragon Horror Minion Unit T3",
+        "description": "13",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Paranoia - Shadow Spell Spell T3",
+        "description": "24",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Chaos Infernal - Demon Calling Spell Spell T3",
+        "description": "25",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Blood Feast - Sacrifice Spell Spell T3",
+        "description": "26",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Minion Unit T3",
+        "description": "37",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Minion Unit T3",
+        "description": "38",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Minion Unit T3",
+        "description": "39",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Minion Unit T3",
+        "description": "40",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Faceless One - Horror Minion Unit T2",
+        "description": "45",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Minion Unit T3",
+        "description": "46",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Minion Unit T3",
+        "description": "47",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eldritch Verse - Vigil  T3",
+        "description": "62",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Devour Essence - Shadow Spell Spell T2",
+        "description": "63",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "64",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Ritual of Death - Sacrifice Spell Spell T2",
+        "description": "65",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Minion Unit T3",
+        "description": "79",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Minion Unit T2",
+        "description": "80",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Minion Unit T3",
+        "description": "81",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Minion Unit T2",
+        "description": "82",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Minion Unit T2",
+        "description": "90",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Minion Unit T2",
+        "description": "91",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Contagious Insanity - Shadow Spell Spell T1",
+        "description": "103",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Crazy Imp - Demon Calling Spell Spell T1",
+        "description": "104",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Trade - Sacrifice Spell Spell T1",
+        "description": "105",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Voidwalker - Horror Minion Unit T1",
+        "description": "114",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Minion Unit T1",
+        "description": "115",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Minion Unit T1",
+        "description": "116",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Minion Unit T1",
+        "description": "117",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Minion Unit T1",
+        "description": "118",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery:<br>Calling, Shadow - Mastery Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery: Sacrifice - Mastery Spell T3",
+        "description": "3",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Twilight Dragon - Dragon Horror Minion Unit T3",
+        "description": "13",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Paranoia - Shadow Spell Spell T3",
+        "description": "24",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Chaos Infernal - Demon Calling Spell Spell T3",
+        "description": "25",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Blood Feast - Sacrifice Spell Spell T3",
+        "description": "26",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Minion Unit T3",
+        "description": "37",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Minion Unit T3",
+        "description": "38",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Minion Unit T3",
+        "description": "39",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Minion Unit T3",
+        "description": "40",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Faceless One - Horror Minion Unit T2",
+        "description": "45",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Minion Unit T3",
+        "description": "46",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Minion Unit T3",
+        "description": "47",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eldritch Verse - Vigil  T3",
+        "description": "62",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Devour Essence - Shadow Spell Spell T2",
+        "description": "63",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "64",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Ritual of Death - Sacrifice Spell Spell T2",
+        "description": "65",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Minion Unit T3",
+        "description": "79",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Minion Unit T2",
+        "description": "80",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Minion Unit T3",
+        "description": "81",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Minion Unit T2",
+        "description": "82",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Minion Unit T2",
+        "description": "90",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Minion Unit T2",
+        "description": "91",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Contagious Insanity - Shadow Spell Spell T1",
+        "description": "103",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Crazy Imp - Demon Calling Spell Spell T1",
+        "description": "104",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Trade - Sacrifice Spell Spell T1",
+        "description": "105",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Voidwalker - Horror Minion Unit T1",
+        "description": "114",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Minion Unit T1",
+        "description": "115",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Minion Unit T1",
+        "description": "116",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Minion Unit T1",
+        "description": "117",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Minion Unit T1",
+        "description": "118",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery:<br>Calling, Shadow - Mastery Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery: Sacrifice - Mastery Spell T3",
+        "description": "3",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Twilight Dragon - Dragon Horror Minion Unit T3",
+        "description": "13",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Paranoia - Shadow Spell Spell T3",
+        "description": "24",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Chaos Infernal - Demon Calling Spell Spell T3",
+        "description": "25",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Blood Feast - Sacrifice Spell Spell T3",
+        "description": "26",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery:<br>Calling, Shadow - Mastery Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery:<br>Calling, Shadow - Mastery Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery:<br>Calling, Shadow - Mastery Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery:<br>Calling, Shadow - Mastery Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery: Sacrifice - Mastery Spell T3",
+        "description": "3",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery:<br>Calling, Shadow - Mastery Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery: Sacrifice - Mastery Spell T3",
+        "description": "3",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery:<br>Calling, Shadow - Mastery Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery: Sacrifice - Mastery Spell T3",
+        "description": "3",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery:<br>Calling, Shadow - Mastery Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery: Sacrifice - Mastery Spell T3",
+        "description": "3",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery:<br>Calling, Shadow - Mastery Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery: Sacrifice - Mastery Spell T3",
+        "description": "3",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery:<br>Calling, Shadow - Mastery Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery: Sacrifice - Mastery Spell T3",
+        "description": "3",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery:<br>Calling, Shadow - Mastery Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery: Sacrifice - Mastery Spell T3",
+        "description": "3",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery:<br>Calling, Shadow - Mastery Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery: Sacrifice - Mastery Spell T3",
+        "description": "3",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery:<br>Calling, Shadow - Mastery Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery: Sacrifice - Mastery Spell T3",
+        "description": "3",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery: Calling, Shadow - Mastery Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery: Sacrifice - Mastery Spell T3",
+        "description": "3",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery: Calling, Shadow - Mastery Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery: Sacrifice - Mastery Spell T3",
+        "description": "3",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery:<br>Calling, Shadow - Mastery Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery: Sacrifice - Mastery Spell T3",
+        "description": "3",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery:<br>Calling, Shadow - Mastery Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery: Sacrifice - Mastery Spell T3",
+        "description": "3",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery:<br>Calling, Shadow - Mastery Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery: Sacrifice - Mastery Spell T3",
+        "description": "3",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery:<br>Calling and Shadow - Mastery Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mastery: Sacrifice - Mastery Spell T3",
+        "description": "3",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Calling and Shadow<br>Master - Mastery Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Calling and Shadow<br>Expert - Mastery Spell T3",
+        "description": "3",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Calling and Shadow<br>Adept - Mastery Spell T3",
+        "description": "4",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Master - Mastery Spell T3",
+        "description": "5",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Expert - Mastery Spell T3",
+        "description": "6",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Adept - Mastery Spell T3",
+        "description": "7",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Twilight Dragon - Dragon Horror Minion Unit T3",
+        "description": "23",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Master at<br>Calling and Shadow - Mastery Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Expert at<br>Calling and Shadow - Mastery Spell T3",
+        "description": "3",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Adept at<br>Calling and Shadow - Mastery Spell T3",
+        "description": "4",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Master - Mastery Spell T3",
+        "description": "5",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Expert - Mastery Spell T3",
+        "description": "6",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Adept - Mastery Spell T3",
+        "description": "7",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Twilight Dragon - Dragon Horror Minion Unit T3",
+        "description": "23",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Master at<br>Calling and Shadow - Mastery Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Expert at<br>Calling and Shadow - Mastery Spell T3",
+        "description": "3",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Adept at<br>Calling and Shadow - Mastery Spell T3",
+        "description": "4",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Master - Mastery Spell T3",
+        "description": "5",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Expert - Mastery Spell T3",
+        "description": "6",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Adept - Mastery Spell T3",
+        "description": "7",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Twilight Dragon - Dragon Horror Minion Unit T3",
+        "description": "23",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Master at<br>Calling and Shadow - Mastery Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Expert at<br>Calling and Shadow - Mastery Spell T3",
+        "description": "3",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Adept at<br>Calling and Shadow - Mastery Spell T3",
+        "description": "4",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Master - Mastery Spell T3",
+        "description": "5",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Expert - Mastery Spell T3",
+        "description": "6",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Adept - Mastery Spell T3",
+        "description": "7",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Twilight Dragon - Dragon Horror Minion Unit T3",
+        "description": "23",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Master at<br>Calling and Shadow - Mastery Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Expert at<br>Calling and Shadow - Mastery Spell T3",
+        "description": "3",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Adept at<br>Calling and Shadow - Mastery Spell T3",
+        "description": "4",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Master - Mastery Spell T3",
+        "description": "5",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Expert - Mastery Spell T3",
+        "description": "6",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Adept - Mastery Spell T3",
+        "description": "7",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Twilight Dragon - Dragon Horror Minion Unit T3",
+        "description": "23",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Paranoia - Shadow Spell Spell T3",
+        "description": "34",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Chaos Infernal - Demon Calling Spell Spell T3",
+        "description": "35",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Blood Feast - Sacrifice Spell Spell T3",
+        "description": "36",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Minion Unit T3",
+        "description": "47",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Minion Unit T3",
+        "description": "48",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Minion Unit T3",
+        "description": "49",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Minion Unit T3",
+        "description": "50",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Faceless One - Horror Minion Unit T2",
+        "description": "55",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Minion Unit T3",
         "description": "56",
         "gmNotes": "notes",
         "lua": null
     },
-{
-        "name": "Devour Essence - Shadow Spell Spell T2",
+    {
+        "name": "Vile Temptress - Demon Minion Unit T3",
         "description": "57",
         "gmNotes": "notes",
         "lua": null
     },
-{
-        "name": "Dark Portal - Calling Spell Spell T2",
-        "description": "58",
+    {
+        "name": "Eldritch Verse - Vigil  T3",
+        "description": "72",
         "gmNotes": "notes",
         "lua": null
     },
-{
-        "name": "Ritual of Death - Sacrifice Spell Spell T2",
-        "description": "59",
-        "gmNotes": "notes",
-        "lua": null
-    },
-{
-        "name": "Eredar Sorcerer - Demon Unit T3",
+    {
+        "name": "Devour Essence - Shadow Spell Spell T2",
         "description": "73",
         "gmNotes": "notes",
         "lua": null
     },
-{
-        "name": "Corrupted Cultist - Demon Unit T2",
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
         "description": "74",
         "gmNotes": "notes",
         "lua": null
     },
-{
-        "name": "Doomguard - Demon Unit T3",
+    {
+        "name": "Ritual of Death - Sacrifice Spell Spell T2",
         "description": "75",
         "gmNotes": "notes",
         "lua": null
     },
-{
-        "name": "Felguard - Demon Unit T2",
-        "description": "76",
+    {
+        "name": "Eredar Sorcerer - Demon Minion Unit T3",
+        "description": "89",
         "gmNotes": "notes",
         "lua": null
     },
-{
-        "name": "Corrupted Cultist - Demon Unit T2",
-        "description": "84",
+    {
+        "name": "Corrupted Cultist - Demon Minion Unit T2",
+        "description": "90",
         "gmNotes": "notes",
         "lua": null
     },
-{
-        "name": "Felguard - Demon Unit T2",
-        "description": "85",
+    {
+        "name": "Doomguard - Demon Minion Unit T3",
+        "description": "91",
         "gmNotes": "notes",
         "lua": null
     },
-{
+    {
+        "name": "Felguard - Demon Minion Unit T2",
+        "description": "92",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Minion Unit T2",
+        "description": "100",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Minion Unit T2",
+        "description": "101",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
         "name": "Contagious Insanity - Shadow Spell Spell T1",
-        "description": "97",
+        "description": "113",
         "gmNotes": "notes",
         "lua": null
     },
-{
+    {
         "name": "Crazy Imp - Demon Calling Spell Spell T1",
+        "description": "114",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Trade - Sacrifice Spell Spell T1",
+        "description": "115",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Voidwalker - Horror Minion Unit T1",
+        "description": "124",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Minion Unit T1",
+        "description": "125",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Minion Unit T1",
+        "description": "126",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Minion Unit T1",
+        "description": "127",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Minion Unit T1",
+        "description": "128",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Master at<br>Calling and Shadow - Mastery Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Expert at<br>Calling and Shadow - Mastery Spell T3",
+        "description": "3",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Adept at<br>Calling and Shadow - Mastery Spell T3",
+        "description": "4",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Master - Mastery Spell T3",
+        "description": "5",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Expert - Mastery Spell T3",
+        "description": "6",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Adept - Mastery Spell T3",
+        "description": "7",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Twilight Dragon - Dragon Horror Minion Unit T3",
+        "description": "23",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Paranoia - Shadow Spell Spell T3",
+        "description": "34",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Chaos Infernal - Demon Calling Spell Spell T3",
+        "description": "35",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Blood Feast - Sacrifice Spell Spell T3",
+        "description": "36",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Minion Unit T3",
+        "description": "47",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Minion Unit T3",
+        "description": "48",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Minion Unit T3",
+        "description": "49",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Minion Unit T3",
+        "description": "50",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Faceless One - Horror Minion Unit T2",
+        "description": "55",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Minion Unit T3",
+        "description": "56",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Minion Unit T3",
+        "description": "57",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eldritch Verse - Vigil  T3",
+        "description": "72",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Devour Essence - Shadow Spell Spell T2",
+        "description": "73",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "74",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Ritual of Death - Sacrifice Spell Spell T2",
+        "description": "75",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Minion Unit T3",
+        "description": "89",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Minion Unit T2",
+        "description": "90",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Minion Unit T3",
+        "description": "91",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Minion Unit T2",
+        "description": "92",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Minion Unit T2",
+        "description": "100",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Minion Unit T2",
+        "description": "101",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Contagious Insanity - Shadow Spell Spell T1",
+        "description": "113",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Crazy Imp - Demon Calling Spell Spell T1",
+        "description": "114",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Trade - Sacrifice Spell Spell T1",
+        "description": "115",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Voidwalker - Horror Minion Unit T1",
+        "description": "124",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Minion Unit T1",
+        "description": "125",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Minion Unit T1",
+        "description": "126",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Minion Unit T1",
+        "description": "127",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Minion Unit T1",
+        "description": "128",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Master at<br>Calling and Shadow - Mastery Spell T3",
+        "description": "1",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Master - Mastery Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Paranoia - Shadow Spell Spell T3",
+        "description": "6",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Chaos Infernal - Demon Calling Spell Spell T3",
+        "description": "7",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Blood Feast - Sacrifice Spell Spell T3",
+        "description": "8",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Expert at<br>Calling and Shadow - Mastery Spell T3",
+        "description": "15",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Expert - Mastery Spell T3",
+        "description": "16",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Twilight Dragon - Dragon Horror Minion Unit T3",
+        "description": "30",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Devour Essence - Shadow Spell Spell T2",
+        "description": "40",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "41",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Ritual of Death - Sacrifice Spell Spell T2",
+        "description": "42",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Adept at<br>Calling and Shadow - Mastery Spell T3",
+        "description": "46",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Adept - Mastery Spell T3",
+        "description": "47",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Minion Unit T3",
+        "description": "58",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Minion Unit T3",
+        "description": "59",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Minion Unit T3",
+        "description": "60",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Minion Unit T3",
+        "description": "61",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Faceless One - Horror Minion Unit T2",
+        "description": "62",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Minion Unit T3",
+        "description": "63",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Minion Unit T3",
+        "description": "64",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eldritch Verse - Vigil  T3",
+        "description": "78",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Minion Unit T3",
+        "description": "89",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Minion Unit T2",
+        "description": "90",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Minion Unit T3",
+        "description": "91",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Minion Unit T2",
+        "description": "92",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Minion Unit T2",
         "description": "98",
         "gmNotes": "notes",
         "lua": null
     },
-{
-        "name": "Dark Trade - Sacrifice Spell Spell T1",
+    {
+        "name": "Felguard - Demon Minion Unit T2",
         "description": "99",
         "gmNotes": "notes",
         "lua": null
     },
-{
-        "name": "Voidwalker - Horror Unit T1",
-        "description": "108",
-        "gmNotes": "notes",
-        "lua": null
-    },
-{
-        "name": "Watcher - Demon Unit T1",
-        "description": "109",
-        "gmNotes": "notes",
-        "lua": null
-    },
-{
-        "name": "Watcher - Demon Unit T1",
-        "description": "110",
-        "gmNotes": "notes",
-        "lua": null
-    },
-{
-        "name": "Felhound - Demon Unit T1",
+    {
+        "name": "Contagious Insanity - Shadow Spell Spell T1",
         "description": "111",
         "gmNotes": "notes",
         "lua": null
     },
-{        "name": "Felhound - Demon Unit T1",        "description": "112",        "gmNotes": "notes",        "lua": null    },
+    {
+        "name": "Crazy Imp - Demon Calling Spell Spell T1",
+        "description": "112",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Trade - Sacrifice Spell Spell T1",
+        "description": "113",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Voidwalker - Horror Minion Unit T1",
+        "description": "122",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Minion Unit T1",
+        "description": "123",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Minion Unit T1",
+        "description": "124",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Minion Unit T1",
+        "description": "125",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Minion Unit T1",
+        "description": "126",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Blood Feast - Sacrifice Spell Spell T3",
+        "description": "8",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Blood Feast - Sacrifice Spell Spell T3",
+        "description": "8",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Blood Feast - Sacrifice Spell Spell T3",
+        "description": "8",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Blood Feast - Sacrifice Spell Spell T3",
+        "description": "8",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Master at<br>Calling and Shadow - Mastery Class Power Spell T3",
+        "description": "1",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Master - Mastery Class Power Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Paranoia - Shadow Spell Spell T3",
+        "description": "6",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Chaos Infernal - Demon Calling Spell Spell T3",
+        "description": "7",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Blood Feast - Sacrifice Spell Spell T3",
+        "description": "8",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Expert at<br>Calling and Shadow - Mastery Class Power Spell T3",
+        "description": "15",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Expert - Mastery Class Power Spell T3",
+        "description": "16",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Twilight Dragon - Dragon Horror Minion Unit T3",
+        "description": "30",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Devour Essence - Shadow Spell Spell T2",
+        "description": "40",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "41",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Ritual of Death - Sacrifice Spell Spell T2",
+        "description": "42",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Adept at<br>Calling and Shadow - Mastery Class Power Spell T3",
+        "description": "46",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Adept - Mastery Class Power Spell T3",
+        "description": "47",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Minion Unit T3",
+        "description": "58",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Minion Unit T3",
+        "description": "59",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Minion Unit T3",
+        "description": "60",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Minion Unit T3",
+        "description": "61",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Faceless One - Horror Minion Unit T2",
+        "description": "62",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Minion Unit T3",
+        "description": "63",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Minion Unit T3",
+        "description": "64",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eldritch Verse - Vigil  T3",
+        "description": "78",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Minion Unit T3",
+        "description": "89",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Minion Unit T2",
+        "description": "90",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Minion Unit T3",
+        "description": "91",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Minion Unit T2",
+        "description": "92",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Minion Unit T2",
+        "description": "98",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Minion Unit T2",
+        "description": "99",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Contagious Insanity - Shadow Spell Spell T1",
+        "description": "111",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Crazy Imp - Demon Calling Spell Spell T1",
+        "description": "112",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Trade - Sacrifice Spell Spell T1",
+        "description": "113",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Voidwalker - Horror Minion Unit T1",
+        "description": "122",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Minion Unit T1",
+        "description": "123",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Minion Unit T1",
+        "description": "124",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Minion Unit T1",
+        "description": "125",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Minion Unit T1",
+        "description": "126",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Master at<br>Calling and Shadow - Mastery Class Power Spell T3",
+        "description": "1",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Master - Mastery Class Power Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Paranoia - Shadow Spell Spell T3",
+        "description": "6",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Chaos Infernal - Demon Calling Spell Spell T3",
+        "description": "7",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Blood Feast - Sacrifice Spell Spell T3",
+        "description": "8",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Expert at<br>Calling and Shadow - Mastery Class Power Spell T3",
+        "description": "15",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Expert - Mastery Class Power Spell T3",
+        "description": "16",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Twilight Dragon - Dragon Horror Minion Unit T3",
+        "description": "30",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Devour Essence - Shadow Spell Spell T2",
+        "description": "40",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "41",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Ritual of Death - Sacrifice Spell Spell T2",
+        "description": "42",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Adept at<br>Calling and Shadow - Mastery Class Power Spell T3",
+        "description": "46",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Adept - Mastery Class Power Spell T3",
+        "description": "47",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Minion Unit T3",
+        "description": "58",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Minion Unit T3",
+        "description": "59",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Minion Unit T3",
+        "description": "60",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Minion Unit T3",
+        "description": "61",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Faceless One - Horror Minion Unit T2",
+        "description": "62",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Minion Unit T3",
+        "description": "63",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Minion Unit T3",
+        "description": "64",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eldritch Verse - Vigil  T3",
+        "description": "78",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Minion Unit T3",
+        "description": "89",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Minion Unit T2",
+        "description": "90",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Minion Unit T3",
+        "description": "91",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Minion Unit T2",
+        "description": "92",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Minion Unit T2",
+        "description": "98",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Minion Unit T2",
+        "description": "99",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Contagious Insanity - Shadow Spell Spell T1",
+        "description": "111",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Crazy Imp - Demon Calling Spell Spell T1",
+        "description": "112",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Trade - Sacrifice Spell Spell T1",
+        "description": "113",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Voidwalker - Horror Minion Unit T1",
+        "description": "122",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Minion Unit T1",
+        "description": "123",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Minion Unit T1",
+        "description": "124",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Minion Unit T1",
+        "description": "125",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Minion Unit T1",
+        "description": "126",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Master at<br>Calling and Shadow - Mastery Class Power Spell T3",
+        "description": "1",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Master - Mastery Class Power Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Paranoia - Shadow Spell Spell T3",
+        "description": "6",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Chaos Infernal - Demon Calling Spell Spell T3",
+        "description": "7",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Blood Feast - Sacrifice Spell Spell T3",
+        "description": "8",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Expert at<br>Calling and Shadow - Mastery Class Power Spell T3",
+        "description": "15",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Expert - Mastery Class Power Spell T3",
+        "description": "16",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Twilight Dragon - Dragon Horror Minion Unit T3",
+        "description": "30",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Devour Essence - Shadow Spell Spell T2",
+        "description": "40",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "41",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Ritual of Death - Sacrifice Spell Spell T2",
+        "description": "42",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Adept at<br>Calling and Shadow - Mastery Class Power Spell T3",
+        "description": "46",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Adept - Mastery Class Power Spell T3",
+        "description": "47",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Minion Unit T3",
+        "description": "58",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Minion Unit T3",
+        "description": "59",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Minion Unit T3",
+        "description": "60",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Minion Unit T3",
+        "description": "61",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Faceless One - Horror Minion Unit T2",
+        "description": "62",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Minion Unit T3",
+        "description": "63",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Minion Unit T3",
+        "description": "64",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Master at<br>Calling and Shadow - Mastery Class Power Spell T3",
+        "description": "1",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Master - Mastery Class Power Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Paranoia - Shadow Spell Spell T3",
+        "description": "6",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Chaos Infernal - Demon Calling Spell Spell T3",
+        "description": "7",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Blood Feast - Sacrifice Spell Spell T3",
+        "description": "8",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Expert at<br>Calling and Shadow - Mastery Class Power Spell T3",
+        "description": "15",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Expert - Mastery Class Power Spell T3",
+        "description": "16",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Twilight Dragon - Dragon Horror Minion Unit T3",
+        "description": "30",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Devour Essence - Shadow Spell Spell T2",
+        "description": "40",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "41",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Ritual of Death - Sacrifice Spell Spell T2",
+        "description": "42",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Adept at<br>Calling and Shadow - Mastery Class Power Spell T3",
+        "description": "46",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Adept - Mastery Class Power Spell T3",
+        "description": "47",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Minion Unit T3",
+        "description": "58",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Minion Unit T3",
+        "description": "59",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Master at<br>Calling and Shadow - Mastery Class Power Spell T3",
+        "description": "1",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Master - Mastery Class Power Spell T3",
+        "description": "2",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Paranoia - Shadow Spell Spell T3",
+        "description": "6",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Chaos Infernal - Demon Calling Spell Spell T3",
+        "description": "7",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Blood Feast - Sacrifice Spell Spell T3",
+        "description": "8",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Expert at<br>Calling and Shadow - Mastery Class Power Spell T3",
+        "description": "15",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Expert - Mastery Class Power Spell T3",
+        "description": "16",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Twilight Dragon - Dragon Horror Minion Unit T3",
+        "description": "30",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Devour Essence - Shadow Spell Spell T2",
+        "description": "40",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "41",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Ritual of Death - Sacrifice Spell Spell T2",
+        "description": "42",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Adept at<br>Calling and Shadow - Mastery Class Power Spell T3",
+        "description": "46",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Adept - Mastery Class Power Spell T3",
+        "description": "47",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Minion Unit T3",
+        "description": "58",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Minion Unit T3",
+        "description": "59",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Minion Unit T3",
+        "description": "60",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Minion Unit T3",
+        "description": "61",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Faceless One - Horror Minion Unit T2",
+        "description": "62",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Minion Unit T3",
+        "description": "63",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Minion Unit T3",
+        "description": "64",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eldritch Verse - Vigil  T3",
+        "description": "78",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Minion Unit T3",
+        "description": "89",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Minion Unit T2",
+        "description": "90",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Minion Unit T3",
+        "description": "91",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Minion Unit T2",
+        "description": "92",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Minion Unit T2",
+        "description": "98",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Minion Unit T2",
+        "description": "99",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Contagious Insanity - Shadow Spell Spell T1",
+        "description": "111",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Crazy Imp - Demon Calling Spell Spell T1",
+        "description": "112",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Trade - Sacrifice Spell Spell T1",
+        "description": "113",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Voidwalker - Horror Minion Unit T1",
+        "description": "122",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Minion Unit T1",
+        "description": "123",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Minion Unit T1",
+        "description": "124",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Minion Unit T1",
+        "description": "125",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Minion Unit T1",
+        "description": "126",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Master at<br>Calling and Shadow - Mastery Class Power Spell T3",
+        "description": "1",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Master - Mastery Class Power Spell T3",
+        "description": "5",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Paranoia - Shadow Spell Spell T3",
+        "description": "6",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Chaos Infernal - Demon Calling Spell Spell T3",
+        "description": "10",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Blood Feast - Sacrifice Spell Spell T3",
+        "description": "11",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Minion Unit T3",
+        "description": "15",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Minion Unit T3",
+        "description": "16",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Twilight Dragon - Dragon Horror Minion Unit T3",
+        "description": "17",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Expert at<br>Calling and Shadow - Mastery Class Power Spell T3",
+        "description": "21",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Expert - Mastery Class Power Spell T3",
+        "description": "22",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Faceless One - Horror Minion Unit T2",
+        "description": "30",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Minion Unit T3",
+        "description": "31",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Minion Unit T3",
+        "description": "32",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Devour Essence - Shadow Spell Spell T2",
+        "description": "39",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "40",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Ritual of Death - Sacrifice Spell Spell T2",
+        "description": "41",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Adept at<br>Calling and Shadow - Mastery Class Power Spell T3",
+        "description": "61",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Adept - Mastery Class Power Spell T3",
+        "description": "62",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eldritch Verse - Vigil  T3",
+        "description": "63",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Minion Unit T3",
+        "description": "67",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Minion Unit T3",
+        "description": "68",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Minion Unit T2",
+        "description": "89",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Minion Unit T2",
+        "description": "90",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Minion Unit T2",
+        "description": "105",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Minion Unit T2",
+        "description": "106",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Contagious Insanity - Shadow Spell Spell T1",
+        "description": "107",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Crazy Imp - Demon Calling Spell Spell T1",
+        "description": "108",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Trade - Sacrifice Spell Spell T1",
+        "description": "109",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Voidwalker - Horror Minion Unit T1",
+        "description": "120",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Minion Unit T1",
+        "description": "121",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Minion Unit T1",
+        "description": "122",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Minion Unit T1",
+        "description": "123",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Minion Unit T1",
+        "description": "124",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Master at<br>Calling and Shadow - Mastery Class Power Spell T3",
+        "description": "6",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Master - Mastery Class Power Spell T3",
+        "description": "10",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Paranoia - Shadow Spell Spell T3",
+        "description": "16",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Chaos Infernal - Demon Calling Spell Spell T3",
+        "description": "20",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Blood Feast - Sacrifice Spell Spell T3",
+        "description": "21",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Minion Unit T3",
+        "description": "30",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Minion Unit T3",
+        "description": "31",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Twilight Dragon - Dragon Horror Minion Unit T3",
+        "description": "32",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Expert at<br>Calling and Shadow - Mastery Class Power Spell T3",
+        "description": "41",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Expert - Mastery Class Power Spell T3",
+        "description": "42",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Faceless One - Horror Minion Unit T2",
+        "description": "51",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Minion Unit T3",
+        "description": "52",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Minion Unit T3",
+        "description": "53",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Devour Essence - Shadow Spell Spell T2",
+        "description": "61",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "62",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Ritual of Death - Sacrifice Spell Spell T2",
+        "description": "63",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Adept at<br>Calling and Shadow - Mastery Class Power Spell T3",
+        "description": "73",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Adept - Mastery Class Power Spell T3",
+        "description": "74",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eldritch Verse - Vigil Spell Spell T3",
+        "description": "84",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Minion Unit T3",
+        "description": "88",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Minion Unit T3",
+        "description": "89",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Minion Unit T2",
+        "description": "95",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Minion Unit T2",
+        "description": "96",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Minion Unit T2",
+        "description": "111",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Minion Unit T2",
+        "description": "112",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Contagious Insanity - Shadow Spell Spell T1",
+        "description": "113",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Crazy Imp - Demon Calling Spell Spell T1",
+        "description": "114",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Trade - Sacrifice Spell Spell T1",
+        "description": "115",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Voidwalker - Horror Minion Unit T1",
+        "description": "126",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Minion Unit T1",
+        "description": "127",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Minion Unit T1",
+        "description": "128",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Minion Unit T1",
+        "description": "129",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Minion Unit T1",
+        "description": "130",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Expert - Mastery Class Power Spell T3",
+        "description": "42",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Master at<br>Calling and Shadow - Mastery Class Power Spell T3",
+        "description": "6",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Master - Mastery Class Power Spell T3",
+        "description": "10",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Master at<br>Calling and Shadow - Mastery Class Power Spell T3",
+        "description": "6",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Master - Mastery Class Power Spell T3",
+        "description": "10",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Paranoia - Shadow Spell Spell T3",
+        "description": "16",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Chaos Infernal - Demon Calling Spell Spell T3",
+        "description": "20",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Blood Feast - Sacrifice Spell Spell T3",
+        "description": "21",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Minion Unit T3",
+        "description": "30",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Minion Unit T3",
+        "description": "31",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Twilight Dragon - Dragon Horror Minion Unit T3",
+        "description": "32",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Expert at<br>Calling and Shadow - Mastery Class Power Spell T3",
+        "description": "41",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Expert - Mastery Class Power Spell T3",
+        "description": "42",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Faceless One - Horror Minion Unit T2",
+        "description": "51",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Minion Unit T3",
+        "description": "52",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Minion Unit T3",
+        "description": "53",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Devour Essence - Shadow Spell Spell T2",
+        "description": "61",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "62",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Ritual of Death - Sacrifice Spell Spell T2",
+        "description": "63",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Adept at<br>Calling and Shadow - Mastery Class Power Spell T3",
+        "description": "73",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Adept - Mastery Class Power Spell T3",
+        "description": "74",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eldritch Verse - Vigil Spell Spell T3",
+        "description": "84",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Minion Unit T3",
+        "description": "88",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Minion Unit T3",
+        "description": "89",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Minion Unit T2",
+        "description": "95",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Minion Unit T2",
+        "description": "96",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Minion Unit T2",
+        "description": "111",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Minion Unit T2",
+        "description": "112",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Contagious Insanity - Shadow Spell Spell T1",
+        "description": "113",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Crazy Imp - Demon Calling Spell Spell T1",
+        "description": "114",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Trade - Sacrifice Spell Spell T1",
+        "description": "115",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Voidwalker - Horror Minion Unit T1",
+        "description": "126",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Minion Unit T1",
+        "description": "127",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Minion Unit T1",
+        "description": "128",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Minion Unit T1",
+        "description": "129",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Minion Unit T1",
+        "description": "130",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Master at<br>Calling and Shadow - Mastery Class Power Spell T3",
+        "description": "6",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Master - Mastery Class Power Spell T3",
+        "description": "10",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Paranoia - Shadow Spell Spell T3",
+        "description": "16",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Chaos Infernal - Demon Calling Spell Spell T3",
+        "description": "20",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Blood Feast - Sacrifice Spell Spell T3",
+        "description": "21",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Minion Unit T3",
+        "description": "30",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Minion Unit T3",
+        "description": "31",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Twilight Dragon - Dragon Horror Minion Unit T3",
+        "description": "32",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Expert at<br>Calling and Shadow - Mastery Class Power Spell T3",
+        "description": "41",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Expert - Mastery Class Power Spell T3",
+        "description": "42",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Faceless One - Horror Minion Unit T2",
+        "description": "51",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Minion Unit T3",
+        "description": "52",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Minion Unit T3",
+        "description": "53",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Devour Essence - Shadow Spell Spell T2",
+        "description": "61",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "62",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Ritual of Death - Sacrifice Spell Spell T2",
+        "description": "63",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Adept at<br>Calling and Shadow - Mastery Class Power Spell T3",
+        "description": "73",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Adept - Mastery Class Power Spell T3",
+        "description": "74",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eldritch Verse - Vigil Spell Spell T3",
+        "description": "84",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Minion Unit T3",
+        "description": "88",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Minion Unit T3",
+        "description": "89",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Minion Unit T2",
+        "description": "95",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Minion Unit T2",
+        "description": "96",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Minion Unit T2",
+        "description": "111",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Minion Unit T2",
+        "description": "112",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Contagious Insanity - Shadow Spell Spell T1",
+        "description": "113",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Crazy Imp - Demon Calling Spell Spell T1",
+        "description": "114",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Trade - Sacrifice Spell Spell T1",
+        "description": "115",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Voidwalker - Horror Minion Unit T1",
+        "description": "126",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Minion Unit T1",
+        "description": "127",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Minion Unit T1",
+        "description": "128",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Minion Unit T1",
+        "description": "129",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Minion Unit T1",
+        "description": "130",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Master at<br>Calling and Shadow - Mastery Class Power Spell T3",
+        "description": "6",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Master - Mastery Class Power Spell T3",
+        "description": "10",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Paranoia - Shadow Spell Spell T3",
+        "description": "16",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Chaos Infernal - Demon Calling Spell Spell T3",
+        "description": "20",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Blood Feast - Sacrifice Spell Spell T3",
+        "description": "21",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Minion Unit T3",
+        "description": "30",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Minion Unit T3",
+        "description": "31",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Twilight Dragon - Dragon Horror Minion Unit T3",
+        "description": "32",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Expert at<br>Calling and Shadow - Mastery Class Power Spell T3",
+        "description": "41",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Expert - Mastery Class Power Spell T3",
+        "description": "42",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Faceless One - Horror Minion Unit T2",
+        "description": "51",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Hydralisk - Demon Minion Unit T3",
+        "description": "52",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Vile Temptress - Demon Minion Unit T3",
+        "description": "53",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Devour Essence - Shadow Spell Spell T2",
+        "description": "61",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Portal - Calling Spell Spell T2",
+        "description": "62",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Ritual of Death - Sacrifice Spell Spell T2",
+        "description": "63",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Adept at<br>Calling and Shadow - Mastery Class Power Spell T3",
+        "description": "73",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sacrifice Adept - Mastery Class Power Spell T3",
+        "description": "74",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eldritch Verse - Vigil Spell Spell T3",
+        "description": "84",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Doomguard - Demon Minion Unit T3",
+        "description": "88",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Eredar Sorcerer - Demon Minion Unit T3",
+        "description": "89",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Minion Unit T2",
+        "description": "95",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Minion Unit T2",
+        "description": "96",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Corrupted Cultist - Demon Minion Unit T2",
+        "description": "111",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felguard - Demon Minion Unit T2",
+        "description": "112",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Contagious Insanity - Shadow Spell Spell T1",
+        "description": "113",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Crazy Imp - Demon Calling Spell Spell T1",
+        "description": "114",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Dark Trade - Sacrifice Spell Spell T1",
+        "description": "115",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Voidwalker - Horror Minion Unit T1",
+        "description": "126",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Minion Unit T1",
+        "description": "127",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Watcher - Demon Minion Unit T1",
+        "description": "128",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Minion Unit T1",
+        "description": "129",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Felhound - Demon Minion Unit T1",
+        "description": "130",
+        "gmNotes": "notes",
+        "lua": null
+    }
+]
