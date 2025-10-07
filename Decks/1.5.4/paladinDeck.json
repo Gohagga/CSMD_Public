@@ -1,0 +1,632 @@
+[
+    {
+        "name": "Repentance Master - Mastery Class Power Mastery T3",
+        "description": "7",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Determination Master - Mastery Class Power Mastery T3",
+        "description": "8",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Restoration Master - Mastery Class Power Mastery T3",
+        "description": "9",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Exorcism - Repentance Spell Spell T3",
+        "description": "17",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Guardian Angel - Determination Spell Spell T3",
+        "description": "18",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Redemption - Restoration Spell Spell T3",
+        "description": "19",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mortar Team - Human Follower Unit T3",
+        "description": "27",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sharpshooter - Human Follower Unit T3",
+        "description": "28",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Swordsman - Human Follower Unit T3",
+        "description": "29",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Repentance Expert - Mastery Class Power Mastery T3",
+        "description": "38",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Determination Expert - Mastery Class Power Mastery T3",
+        "description": "39",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Restoration Expert - Mastery Class Power Mastery T3",
+        "description": "40",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sharpshooter - Human Follower Unit T3",
+        "description": "48",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Knight - Human Follower Unit T3",
+        "description": "49",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Guardian - Human Follower Unit T3",
+        "description": "50",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Purge - Repentance Spell Spell T2",
+        "description": "58",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Endure - Determination Spell Spell T2",
+        "description": "59",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Invigorate - Restoration Spell Spell T2",
+        "description": "60",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Repentance Adept - Mastery Class Power Mastery T3",
+        "description": "70",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Determination Adept - Mastery Class Power Mastery T3",
+        "description": "71",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Restoration Adept - Mastery Class Power Mastery T3",
+        "description": "72",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Rifleman - Human Follower Unit T3",
+        "description": "85",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Swordsman - Human Follower Unit T3",
+        "description": "86",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Strength of Many - Vigil Spell Spell T3",
+        "description": "87",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Ranger - Human Follower Unit T2",
+        "description": "97",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Footman - Human Follower Unit T2",
+        "description": "99",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Ranger - Human Follower Unit T2",
+        "description": "116",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Footman - Human Follower Unit T2",
+        "description": "117",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Justice - Repentance Spell Spell T1",
+        "description": "118",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Bless - Determination Spell Spell T1",
+        "description": "119",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Rejuvenate - Restoration Spell Spell T1",
+        "description": "120",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Archer - Human Follower Unit T1",
+        "description": "131",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Archer - Human Follower Unit T1",
+        "description": "132",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Guard - Human Follower Unit T1",
+        "description": "133",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Guard - Human Follower Unit T1",
+        "description": "134",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Repentance Master - Mastery Class Power Mastery T3",
+        "description": "7",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Determination Master - Mastery Class Power Mastery T3",
+        "description": "8",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Restoration Master - Mastery Class Power Mastery T3",
+        "description": "9",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Exorcism - Repentance Spell Spell T3",
+        "description": "17",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Guardian Angel - Determination Spell Spell T3",
+        "description": "18",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Redemption - Restoration Spell Spell T3",
+        "description": "19",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mortar Team - Human Follower Unit T3",
+        "description": "27",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sharpshooter - Human Follower Unit T3",
+        "description": "28",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Swordsman - Human Follower Unit T3",
+        "description": "29",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Repentance Expert - Mastery Class Power Mastery T3",
+        "description": "38",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Determination Expert - Mastery Class Power Mastery T3",
+        "description": "39",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Restoration Expert - Mastery Class Power Mastery T3",
+        "description": "40",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sharpshooter - Human Follower Unit T3",
+        "description": "48",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Knight - Human Follower Unit T3",
+        "description": "49",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Guardian - Human Follower Unit T3",
+        "description": "50",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Purge - Repentance Spell Spell T2",
+        "description": "58",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Endure - Determination Spell Spell T2",
+        "description": "59",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Invigorate - Restoration Spell Spell T2",
+        "description": "60",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Repentance Adept - Mastery Class Power Mastery T3",
+        "description": "70",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Determination Adept - Mastery Class Power Mastery T3",
+        "description": "71",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Restoration Adept - Mastery Class Power Mastery T3",
+        "description": "72",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Rifleman - Human Follower Unit T3",
+        "description": "85",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Swordsman - Human Follower Unit T3",
+        "description": "86",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Strength of Many - Vigil Spell Spell T3",
+        "description": "87",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Ranger - Human Follower Unit T2",
+        "description": "97",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Footman - Human Follower Unit T2",
+        "description": "99",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Ranger - Human Follower Unit T2",
+        "description": "116",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Footman - Human Follower Unit T2",
+        "description": "117",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Justice - Repentance Spell Spell T1",
+        "description": "118",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Bless - Determination Spell Spell T1",
+        "description": "119",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Rejuvenate - Restoration Spell Spell T1",
+        "description": "120",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Archer - Human Follower Unit T1",
+        "description": "131",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Archer - Human Follower Unit T1",
+        "description": "132",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Guard - Human Follower Unit T1",
+        "description": "133",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Guard - Human Follower Unit T1",
+        "description": "134",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Repentance Master - Mastery Class Power Mastery T3",
+        "description": "7",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Determination Master - Mastery Class Power Mastery T3",
+        "description": "8",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Restoration Master - Mastery Class Power Mastery T3",
+        "description": "9",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Exorcism - Repentance Spell Spell T3",
+        "description": "17",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Guardian Angel - Determination Spell Spell T3",
+        "description": "18",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Redemption - Restoration Spell Spell T3",
+        "description": "19",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Mortar Team - Human Follower Unit T3",
+        "description": "27",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sharpshooter - Human Follower Unit T3",
+        "description": "28",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Swordsman - Human Follower Unit T3",
+        "description": "29",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Repentance Expert - Mastery Class Power Mastery T3",
+        "description": "38",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Determination Expert - Mastery Class Power Mastery T3",
+        "description": "39",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Restoration Expert - Mastery Class Power Mastery T3",
+        "description": "40",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Sharpshooter - Human Follower Unit T3",
+        "description": "48",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Knight - Human Follower Unit T3",
+        "description": "49",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Guardian - Human Follower Unit T3",
+        "description": "50",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Purge - Repentance Spell Spell T2",
+        "description": "58",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Endure - Determination Spell Spell T2",
+        "description": "59",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Invigorate - Restoration Spell Spell T2",
+        "description": "60",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Repentance Adept - Mastery Class Power Mastery T3",
+        "description": "70",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Determination Adept - Mastery Class Power Mastery T3",
+        "description": "71",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Restoration Adept - Mastery Class Power Mastery T3",
+        "description": "72",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Rifleman - Human Follower Unit T3",
+        "description": "85",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Swordsman - Human Follower Unit T3",
+        "description": "86",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Strength of Many - Vigil Spell Spell T3",
+        "description": "87",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Ranger - Human Follower Unit T2",
+        "description": "97",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Footman - Human Follower Unit T2",
+        "description": "99",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Ranger - Human Follower Unit T2",
+        "description": "116",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Footman - Human Follower Unit T2",
+        "description": "117",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Justice - Repentance Spell Spell T1",
+        "description": "118",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Bless - Determination Spell Spell T1",
+        "description": "119",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Rejuvenate - Restoration Spell Spell T1",
+        "description": "120",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Archer - Human Follower Unit T1",
+        "description": "131",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Archer - Human Follower Unit T1",
+        "description": "132",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Guard - Human Follower Unit T1",
+        "description": "133",
+        "gmNotes": "notes",
+        "lua": null
+    },
+    {
+        "name": "Guard - Human Follower Unit T1",
+        "description": "134",
+        "gmNotes": "notes",
+        "lua": null
+    }
+]
